@@ -6,9 +6,12 @@
 </head>
 <body>
 <?php
-        echo 'Hello Word </br>';
+$my_var = 'Hello, Word';
 
-        ?>
+   echo $my_var;
+
+   ?>
+
     <p>Another paragraph</p>
 </body>
 </html>
