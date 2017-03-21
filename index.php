@@ -6,7 +6,8 @@
 </head>
 <body>
 <?php
-echo 'Hello, world!';
+        echo 'This is line #1 </br>';
+        echo 'This is line #2';
 ?>
 </body>
 </html>
