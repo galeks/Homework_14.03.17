@@ -1,2 +1,0 @@
-# phpac
-PHP-Academy
