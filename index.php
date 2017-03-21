@@ -6,8 +6,9 @@
 </head>
 <body>
 <?php
-        echo 'This is line #1 </br>';
-        echo 'This is line #2';
-?>
+        echo 'Hello Word </br>';
+
+        ?>
+    <p>Another paragraph</p>
 </body>
 </html>
