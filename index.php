@@ -6,8 +6,7 @@
 </head>
 <body>
 <?php
-
-echo 'Hello, word!'
+echo 'Hello, world!';
 ?>
 </body>
 </html>
