@@ -7,7 +7,12 @@
 <body>
 <?php
 
-$fruits = array(5,10,3);
+$countries = array(1 => 'Ukraine', 2 => 'USA',3 =>'Poland', 4 => 'Canada',5=>'Germany');
+
+echo '<pre>';
+print_r($countries);
+
+echo '</pre>';
 
 $var = 'Something';
 $arr = array(5,10,3, 'some string',false, 2.54, $var);
